@@ -1,8 +1,11 @@
 # MechaCar_Statistical_Analysis
+This was a statistical analysis ran on protype cars and compare different aspects of them.
 
+![]images(images/screenshot4.png)
 
 ##Linear Regression to Predict MPG
 
+![]images(images/screenshot1.png)
 
 -Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset? Vechicle weight had a significance value over .05 
 -Is the slope of the linear model considered to be zero? Why or why not? No the slope of the linear model isn't zero since the r^2 is .6825
